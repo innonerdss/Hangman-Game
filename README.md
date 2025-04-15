@@ -1,2 +1,2 @@
-# Hangman-Game
-Hangman Game
+# ATM-Machine
+ATM Machine
